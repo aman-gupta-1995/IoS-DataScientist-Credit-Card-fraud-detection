@@ -28,7 +28,7 @@
 		8EFED2811E2796A6002BE8D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EFED2801E2796A6002BE8D5 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
+/* Begin PBXContainerItemProxy section */ 
 		8EC8C3D41DEC8C3E0044FB44 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 8EC8C3C01DEC8C3E0044FB44 /* Project object */;
