@@ -1,6 +1,6 @@
 //
 //  AKMaskField.swift
-//  AKMaskField 
+//  AKMaskField  
 //  GitHub: https://github.com/artemkrachulov/AKMaskField  
 //     
 //  Created by Artem Krachulov  
