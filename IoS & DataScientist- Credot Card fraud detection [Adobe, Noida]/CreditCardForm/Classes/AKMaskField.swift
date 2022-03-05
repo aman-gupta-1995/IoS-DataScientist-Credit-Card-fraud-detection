@@ -28,7 +28,7 @@
 
 import UIKit
 
-/// AKMaskField is UITextField subclass which allows enter data in the fixed quantity 
+/// AKMaskField is UITextField subclass which allows enter data in the fixed quantity  
 /// and in the certain format (credit cards, telephone numbers, dates, etc.). 
 /// You only need setup mask and mask template visible for the user.
 ///
