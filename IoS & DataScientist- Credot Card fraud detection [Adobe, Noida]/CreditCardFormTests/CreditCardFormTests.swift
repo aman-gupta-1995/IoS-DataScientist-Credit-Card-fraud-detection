@@ -1,7 +1,7 @@
 //
 //  CreditCardFormTests.swift
 //  CreditCardFormTests
-//
+// 
 //  Created by Atakishiyev Orazdurdy on 11/28/16. 
 //  Copyright © 2016 Veriloft. All rights reserved. 
 //
