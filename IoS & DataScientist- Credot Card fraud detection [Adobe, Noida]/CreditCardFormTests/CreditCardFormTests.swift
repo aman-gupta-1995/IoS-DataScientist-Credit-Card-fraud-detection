@@ -6,7 +6,7 @@
 import XCTest  
 @testable import CreditCardForm
 
-class CreditCardFormTests: XCTestCase {
+class CreditCardFormTests: XCTestCase { 
     
     override func setUp() {
         super.setUp()
