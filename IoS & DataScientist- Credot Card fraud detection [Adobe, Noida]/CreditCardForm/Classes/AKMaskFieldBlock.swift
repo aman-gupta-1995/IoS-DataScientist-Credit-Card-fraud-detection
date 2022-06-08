@@ -3,7 +3,7 @@
 //  AKMaskField 
 //  GitHub: https://github.com/artemkrachulov/AKMaskField
 //  
-//  Created by Artem Krachulov 
+//  Created by Artem Krachulov  
 //  Copyright (c) 2016 Artem Krachulov. All rights reserved.  
 //  Website: http://www.artemkrachulov.com/   
 //
