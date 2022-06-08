@@ -6,7 +6,7 @@
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
       <BuildActionEntries>  
-         <BuildActionEntry
+         <BuildActionEntry 
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
