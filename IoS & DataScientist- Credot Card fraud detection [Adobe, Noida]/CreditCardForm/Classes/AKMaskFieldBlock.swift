@@ -5,7 +5,7 @@
 //  
 //  Created by Artem Krachulov 
 //  Copyright (c) 2016 Artem Krachulov. All rights reserved.  
-//  Website: http://www.artemkrachulov.com/  
+//  Website: http://www.artemkrachulov.com/   
 //
 
 import Foundation
