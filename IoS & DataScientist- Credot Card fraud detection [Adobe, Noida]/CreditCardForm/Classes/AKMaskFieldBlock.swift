@@ -29,7 +29,7 @@ public struct AKMaskFieldBlock {
     default          : return .incomplete
     }
   }
-  
+   
   /// An array containing all characters inside block.
   var chars: [AKMaskFieldBlockCharacter]
   
