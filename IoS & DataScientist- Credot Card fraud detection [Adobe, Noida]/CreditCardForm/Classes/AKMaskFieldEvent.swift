@@ -1,5 +1,5 @@
 //
-//  AKMaskFieldEvent.swift
+//  AKMaskFieldEvent.swift 
 //  AKMaskField
 //  GitHub: https://github.com/artemkrachulov/AKMaskField
 //
